@@ -1,3 +1,4 @@
+![logo](https://github.com/NathnaelYimer/NathnaelYimer/blob/main/banner2.png)
 <h1 align="center">Hi 👋, I'm Nathnael Yimer</h1>
 <h3 align="center">A passionate Software Developer from Ethiopia</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
